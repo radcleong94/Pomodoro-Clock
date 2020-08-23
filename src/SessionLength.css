@@ -1,6 +1,7 @@
 .session-section {
   text-align: center;
   font-size: 2rem;
+  color: white;
 }
 
 .btn-session-section {
@@ -14,9 +15,10 @@
   font-size: 2rem;
   outline: none;
   border: none;
-  background: white;
+  background: none;
   margin: 20px;
   cursor: pointer;
+  color: rgb(58, 207, 66);
 }
 
 .btn-session-section button:disabled {

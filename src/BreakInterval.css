@@ -1,6 +1,7 @@
 .break-section {
   text-align: center;
   font-size: 2rem;
+  color: white;
   margin-right: 50px;
 }
 
@@ -15,8 +16,9 @@
   font-size: 2rem;
   outline: none;
   border: none;
-  background: white;
+  background: none;
   margin: 20px;
+  color: rgb(58, 207, 66);
   cursor: pointer;
 }
 
